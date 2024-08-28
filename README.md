@@ -5,12 +5,9 @@
 
 💡 **Conectemos** y hagamos grandes cosas juntos!
 
----
-
 ## 🌐 Social Accounts:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/angel_audiel_reyes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angel-audiel-reyes-pedrizco-b97845324) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AngelReyes-hc7vi)
 
----
 
 ## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -31,15 +28,11 @@
 ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 
----
-
 ## 📊 GitHub Stats:
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=ReyesPedrizcoAngelAudiel&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="120em"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReyesPedrizcoAngelAudiel&theme=github_dark_dimmed&hide_border=true" alt="GitHub Streak Stats" height="120em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReyesPedrizcoAngelAudiel&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="120em"/>
 </div>
-
----
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
