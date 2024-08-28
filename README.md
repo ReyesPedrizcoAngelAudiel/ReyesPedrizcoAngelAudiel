@@ -1,4 +1,4 @@
-# 💫 About Me
+# 💫 About me
 **👋 Hola!** Soy un **apasionado desarrollador Full-Stack** recién egresado de 23 años, originario de Querétaro, México. Mi objetivo es crear soluciones tecnológicas que no solo funcionen, sino que **aporten valor real** a las personas y empresas.
 
 🚀 **Siempre buscando nuevos desafíos** que me permitan aprender, crecer y colaborar en proyectos innovadores. Estoy listo para sumergirme en cualquier oportunidad que me ayude a expandir mis habilidades y a contribuir con ideas frescas y eficientes.
@@ -7,7 +7,7 @@
 
 ---
 
-## 🌐 Connect with Me:
+## 🌐 Social Accounts:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/angel_audiel_reyes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angel-audiel-reyes-pedrizco-b97845324) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AngelReyes-hc7vi)
 
 ---
@@ -35,23 +35,11 @@
 
 ## 📊 GitHub Stats:
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=ReyesPedrizcoAngelAudiel&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="140em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReyesPedrizcoAngelAudiel&theme=github_dark_dimmed&hide_border=true" alt="GitHub Streak Stats" height="140em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReyesPedrizcoAngelAudiel&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="140em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ReyesPedrizcoAngelAudiel&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="120em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReyesPedrizcoAngelAudiel&theme=github_dark_dimmed&hide_border=true" alt="GitHub Streak Stats" height="120em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReyesPedrizcoAngelAudiel&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="120em"/>
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ReyesPedrizcoAngelAudiel&theme=apprentice&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ReyesPedrizcoAngelAudiel&icon=5&color=3" alt="Visitor Count"/>
-</div>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
