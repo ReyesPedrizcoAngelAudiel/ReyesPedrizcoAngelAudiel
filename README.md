@@ -35,12 +35,12 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ReyesPedrizcoAngelAudiel&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReyesPedrizcoAngelAudiel&theme=github_dark_dimmed&hide_border=true" alt="GitHub Streak Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ReyesPedrizcoAngelAudiel&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="80em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReyesPedrizcoAngelAudiel&theme=github_dark_dimmed&hide_border=true" alt="GitHub Streak Stats" height="80em"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReyesPedrizcoAngelAudiel&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReyesPedrizcoAngelAudiel&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="80em"/>
 </div>
 
 ---
