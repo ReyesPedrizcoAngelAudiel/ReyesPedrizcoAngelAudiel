@@ -34,21 +34,17 @@
 ---
 
 ## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ReyesPedrizcoAngelAudiel&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="150em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReyesPedrizcoAngelAudiel&theme=github_dark_dimmed&hide_border=true" alt="GitHub Streak Stats" height="150em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReyesPedrizcoAngelAudiel&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="150em"/>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=ReyesPedrizcoAngelAudiel&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="140em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReyesPedrizcoAngelAudiel&theme=github_dark_dimmed&hide_border=true" alt="GitHub Streak Stats" height="140em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReyesPedrizcoAngelAudiel&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="140em"/>
 </div>
+
 ---
 
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ReyesPedrizcoAngelAudiel&theme=apprentice&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
-### 🔝 Top Contributed Repos
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ReyesPedrizcoAngelAudiel&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
 </div>
 
 ---
