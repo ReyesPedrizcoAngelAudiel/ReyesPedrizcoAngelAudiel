@@ -1,10 +1,5 @@
 # 💫 About me
-
-## 🌍 Languages:
-- [Inglés](#english) | [Español](#spanish)
-
----
-
+##🌍 Languages: [Inglés](#english) | [Español](#spanish)
 ## <a name="english">🇬🇧 English</a>
 **👋 Hello!** I am a **passionate Full-Stack developer** recently graduated at 23 years old, hailing from Querétaro, Mexico. My goal is to create technological solutions that not only work but also **bring real value** to people and businesses.
 
@@ -12,7 +7,8 @@
 
 💡 **Let's connect** and achieve great things together!
 
----
+<details>
+  <summary>🇲🇽 Español</summary>
 
 ## <a name="spanish">🇲🇽 Español</a>
 **👋 Hola!** Soy un **apasionado desarrollador Full-Stack** recién egresado de 23 años, originario de Querétaro, México. Mi objetivo es crear soluciones tecnológicas que no solo funcionen, sino que **aporten valor real** a las personas y empresas.
@@ -21,14 +17,12 @@
 
 💡 **Conectemos** y hagamos grandes cosas juntos!
 
----
+</details>
 
 ## 🌐 Social Accounts:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/angel_audiel_reyes) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angel-audiel-reyes-pedrizco-b97845324) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AngelReyes-hc7vi)
-
----
 
 ## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -52,12 +46,10 @@
 ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 
----
-
 ## 📊 GitHub Stats:
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=ReyesPedrizcoAngelAudiel&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="120em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReyesPedrizcoAngelAudiel&theme=github_dark_dimmed&hide_border=true" alt="GitHub Streak Stats" height="120em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReyesPedrizcoAngelAudiel&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="120em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ReyesPedrizcoAngelAudiel&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReyesPedrizcoAngelAudiel&theme=github_dark_dimmed&hide_border=true" alt="GitHub Streak Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReyesPedrizcoAngelAudiel&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="180em"/>
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
