@@ -1,27 +1,34 @@
 # 💫 About me
-<div align="center">
-  <button onclick="switchLanguage('en')" style="margin-right: 10px; padding: 5px 15px; background-color: #11999e; color: white; border: none; cursor: pointer;">Inglés</button>
-  <button onclick="switchLanguage('es')" style="padding: 5px 15px; background-color: #11999e; color: white; border: none; cursor: pointer;">Español</button>
-</div>
 
-<div id="content-en" style="display: block;">
-  **👋 Hello!** I am a **passionate Full-Stack developer** recently graduated at 23 years old, hailing from Querétaro, Mexico. My goal is to create technological solutions that not only work but also **bring real value** to people and businesses.
+## 🌍 Languages:
+- [Inglés](#english) | [Español](#spanish)
 
-  🚀 **Always looking for new challenges** that allow me to learn, grow, and collaborate on innovative projects. I'm ready to dive into any opportunity that helps me expand my skills and contribute fresh and efficient ideas.
+---
 
-  💡 **Let's connect** and achieve great things together!
-</div>
+## <a name="english">🇬🇧 English</a>
+**👋 Hello!** I am a **passionate Full-Stack developer** recently graduated at 23 years old, hailing from Querétaro, Mexico. My goal is to create technological solutions that not only work but also **bring real value** to people and businesses.
 
-<div id="content-es" style="display: none;">
-  **👋 Hola!** Soy un **apasionado desarrollador Full-Stack** recién egresado de 23 años, originario de Querétaro, México. Mi objetivo es crear soluciones tecnológicas que no solo funcionen, sino que **aporten valor real** a las personas y empresas.
+🚀 **Always looking for new challenges** that allow me to learn, grow, and collaborate on innovative projects. I'm ready to dive into any opportunity that helps me expand my skills and contribute fresh and efficient ideas.
 
-  🚀 **Siempre buscando nuevos desafíos** que me permitan aprender, crecer y colaborar en proyectos innovadores. Estoy listo para sumergirme en cualquier oportunidad que me ayude a expandir mis habilidades y a contribuir con ideas frescas y eficientes.
+💡 **Let's connect** and achieve great things together!
 
-  💡 **Conectemos** y hagamos grandes cosas juntos!
-</div>
+---
+
+## <a name="spanish">🇲🇽 Español</a>
+**👋 Hola!** Soy un **apasionado desarrollador Full-Stack** recién egresado de 23 años, originario de Querétaro, México. Mi objetivo es crear soluciones tecnológicas que no solo funcionen, sino que **aporten valor real** a las personas y empresas.
+
+🚀 **Siempre buscando nuevos desafíos** que me permitan aprender, crecer y colaborar en proyectos innovadores. Estoy listo para sumergirme en cualquier oportunidad que me ayude a expandir mis habilidades y a contribuir con ideas frescas y eficientes.
+
+💡 **Conectemos** y hagamos grandes cosas juntos!
+
+---
 
 ## 🌐 Social Accounts:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/angel_audiel_reyes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angel-audiel-reyes-pedrizco-b97845324) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AngelReyes-hc7vi)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/angel_audiel_reyes) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angel-audiel-reyes-pedrizco-b97845324) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AngelReyes-hc7vi)
+
+---
 
 ## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -45,6 +52,8 @@
 ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 
+---
+
 ## 📊 GitHub Stats:
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=ReyesPedrizcoAngelAudiel&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="120em"/>
@@ -52,10 +61,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReyesPedrizcoAngelAudiel&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="120em"/>
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<script>
-function switchLanguage(language) {
-  document.getElementById('content-en').style.display = language === 'en' ? 'block' : 'none';
-  document.getElementById('content-es').style.display = language === 'es' ? 'block' : 'none';
-}
-</script>
